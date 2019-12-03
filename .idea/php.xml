@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/vanilla-master/vendor/tburry/pquery" />
+      <path value="$PROJECT_DIR$/vanilla-master/vendor/chrisjean/php-ico" />
+      <path value="$PROJECT_DIR$/vanilla-master/vendor/phing/phing" />
+      <path value="$PROJECT_DIR$/vanilla-master/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vanilla-master/vendor/squizlabs/php_codesniffer" />
+      <path value="$PROJECT_DIR$/vanilla-master/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vanilla-master/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vanilla-master/vendor/pclzip/pclzip" />
+      <path value="$PROJECT_DIR$/vanilla-master/vendor/vanilla/legacy-passwords" />
+      <path value="$PROJECT_DIR$/vanilla-master/vendor/michelf/php-markdown" />
+      <path value="$PROJECT_DIR$/vanilla-master/vendor/vanilla/garden-password" />
+      <path value="$PROJECT_DIR$/vanilla-master/vendor/vanilla/safecurl" />
+      <path value="$PROJECT_DIR$/vanilla-master/vendor/vanilla/vanilla-connect" />
+      <path value="$PROJECT_DIR$/vanilla-master/vendor/vanilla/nbbc" />
+      <path value="$PROJECT_DIR$/vanilla-master/vendor/exussum12/coverage-checker" />
+      <path value="$PROJECT_DIR$/vanilla-master/vendor/vanilla/garden-http" />
+      <path value="$PROJECT_DIR$/vanilla-master/vendor/smarty/smarty" />
+      <path value="$PROJECT_DIR$/vanilla-master/vendor/vanilla/htmlawed" />
+      <path value="$PROJECT_DIR$/vanilla-master/vendor/vanilla/legacy-oauth" />
+      <path value="$PROJECT_DIR$/vanilla-master/vendor/vanilla/garden-container" />
+      <path value="$PROJECT_DIR$/vanilla-master/vendor/ralouphie/mimey" />
+      <path value="$PROJECT_DIR$/vanilla-master/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vanilla-master/vendor/vanilla/garden-schema" />
+      <path value="$PROJECT_DIR$/vanilla-master/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vanilla-master/vendor/vanilla/standards" />
+      <path value="$PROJECT_DIR$/vanilla-master/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vanilla-master/vendor/firebase/php-jwt" />
+      <path value="$PROJECT_DIR$/vanilla-master/vendor/voku/simple_html_dom" />
+      <path value="$PROJECT_DIR$/vanilla-master/vendor/voku/html-min" />
+      <path value="$PROJECT_DIR$/vanilla-master/vendor/phpmailer/phpmailer" />
+      <path value="$PROJECT_DIR$/vanilla-master/vendor/mikey179/vfsstream" />
+      <path value="$PROJECT_DIR$/vanilla-master/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vanilla-master/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vanilla-master/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vanilla-master/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vanilla-master/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vanilla-master/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vanilla-master/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/vanilla-master/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vanilla-master/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vanilla-master/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/vanilla-master/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vanilla-master/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vanilla-master/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vanilla-master/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vanilla-master/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vanilla-master/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vanilla-master/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vanilla-master/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vanilla-master/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vanilla-master/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vanilla-master/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vanilla-master/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vanilla-master/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vanilla-master/vendor/container-interop/container-interop" />
+      <path value="$PROJECT_DIR$/vanilla-master/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/vanilla-master/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vanilla-master/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vanilla-master/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vanilla-master/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vanilla-master/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vanilla-master/vendor/composer" />
+      <path value="$PROJECT_DIR$/vanilla-master/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vanilla-master/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vanilla-master/vendor/phpdocumentor/reflection-docblock" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings load_method="CUSTOM_LOADER" custom_loader_path="$PROJECT_DIR$/vanilla-master/vendor/autoload.php" />
+    </phpunit_settings>
+  </component>
+</project>
